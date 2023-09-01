@@ -21,19 +21,19 @@ In addition, the requested APIs and the returned response information can be exa
 
 ## Home Page
 
-<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/home%20page.jpg" width="600" height="900" >
+<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/home%20page.jpg" width="600" height="900" > <br />
 
-<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/Home%20pagee.jpg" width="600" height="900" >
+<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/Home%20pagee.jpg" width="600" height="900" > <br />
 
 ## Detail Page
 
-<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/detail%20page.jpg" width="600" height="900">
+<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/detail%20page.jpg" width="600" height="900"> <br />
 
 ## Chucker 
 
-<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/chucker%20detail.jpg" width="600" height="900" >
+<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/chucker%20detail.jpg" width="600" height="900" > <br />
 
-<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/chucker%20-%20overview.jpg" width="600" height="900">
+<img src="https://github.com/tubakoc/BookStoreMvvm/blob/master/app/chucker%20-%20overview.jpg" width="600" height="900"> <br />
 
 
 
