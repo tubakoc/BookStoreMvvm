@@ -14,6 +14,8 @@ In addition, the requested APIs and the returned response information can be exa
 * Retrofit 
 * Chucker
 * SharedPreferences
+* MVVM
+* Hilt
 
 # ScreenShot
 
