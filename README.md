@@ -2,7 +2,7 @@
 
 In addition to the application I developed before, MVVM and Hilt were added./n 
 https://github.com/tubakoc/BookStoreApp/n
-In summary, this developed application consists of two screens./n
+In summary, this developed application consists of two screens. \n
 All books, their names and prices are listed on the first screen./n 
 The books listed also stand out with the visual added next to the best-selling price information./n 
 On the second screen, all the details of the clicked book are listed./n 
